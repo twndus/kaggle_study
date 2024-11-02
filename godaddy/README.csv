@@ -1,0 +1,29 @@
+# GoDaddy - Microbusiness Density Forecasting
+
+## Competition Info
+
+- Competition Title: [GoDaddy - Microbusiness Density Forecasting](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/overview)
+- Competition Period: Dec 16, 2022 ~ Jun 16, 2023 (closed)
+- Hosted by: [GoDaddy](https://www.godaddy.com/en-ca)
+- Submissions: 6,088
+- Objective: Forcast the next month's microbusiness density (time-series orcasting)
+
+## Competition Details
+
+- External data sources for additional features are highly encouraged.
+- Late submission is currently blocked, but the target data is accessible: [US Microbusiness Density Data](https://www.godaddy.com/ventureforward/resource/united-states-microbusiness-density/vf_us_md_q224/) covering August 2019 - June 2024
+
+## Study Info
+
+- Study start date: November 2024 - December 2024 (expected)
+- Category: `Time-Series Forecasting`
+- Study Process:
+    - Data Understanding and Exploratory data analysis (EDA)
+    - Building a baseline model
+    - Improving performance
+
+### Project Hierarchy
+
+```
+coming soon
+```
